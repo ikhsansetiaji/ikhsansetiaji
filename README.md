@@ -35,9 +35,7 @@
   <img src="https://github-contributor-stats.vercel.app/api?username=ikhsansetiaji&limit=5&theme=onedark&combine_all_yearly_contributions=true&bg_color=0D1117&title_color=58D68D&text_color=FFFFFF" width="100%" />
 </div>
 ---
-<div align="center">
 ![Banner GIF](https://raw.githubusercontent.com/ikhsansetiaji/ikhsansetiaji/main/Coding%20The%20Matrix%20GIF.gif)
-</div>
 </div>
 
 ## 💡 Fun Fact

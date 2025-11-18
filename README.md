@@ -61,31 +61,9 @@
 
 ```java
 public class Main {
-    public static void main(String[] args) throws InterruptedException {
-        // ASCII Banner for Hello World (inspired by coding cats!)
-        String[] banner = {
-            "  ___  ____  ____   _  _    __    ___  ",
-            " / __)(  _ \\(  _ \\ ( \\/ )  /__\\  / __) ",
-            "( (_-. )   / )   /  \\  /  /(__\\( (__  ",
-            " \\___/(__\\_)(__\\_)(_/  \\)(__)(  \\___) ",
-            "               Hello, World! 🚀        "
-        };
-        
-        // Print banner with a "fade-in" effect (simple loop with delay)
-        for (String line : banner) {
-            System.out.println(line);
-            Thread.sleep(200);  // Tiny pause for animation (remove if no delay needed)
-        }
-        
-        // Fun message with your name
-        String important = "Keep coding, Ikhsan! 💻✨";
-        System.out.println("\n" + important);
-        
-        
-        // Bonus: Simple star pattern to end with flair
-        System.out.println("\n--- End of Snippet ---");
-        for (int i = 0; i < 3; i++) {
-            System.out.println("  *   *   *   ");
-        }
+    public static void main(String[] args) {
+        System.out.println("Hello, World! 🚀");
+        String important = "Keep coding, Ikhsan!";
+        System.out.println(important);
     }
 }

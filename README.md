@@ -5,7 +5,7 @@
 A passionate **Software Developer** from Indonesia 🚀  
 Exploring the world of code, one commit at a time. | He/Him | 📍 Daerah Istimewa Yogyakarta 
 
-![Banner GIF](https://raw.githubusercontent.com/ikhsansetiaji/ikhsansetiaji/main/banner.gif)
+![Banner GIF](https://raw.githubusercontent.com/ikhsansetiaji/ikhsansetiaji/main/Coding%20The%20Matrix%20GIF.gif)
 
 
 ---

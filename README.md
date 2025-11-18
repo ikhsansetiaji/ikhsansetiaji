@@ -2,9 +2,6 @@
 
 # 👋 Hi there, I'm **Ikhsan Setiaji!**
 
-Belajar Git, Java, Kotlin, dan dunia software engineering.  
-Saat ini menggunakan **IntelliJ IDEA** sebagai lingkungan belajar Java. 🚀
-
 ---
 
 ## 🌐 Connect with Me
@@ -61,3 +58,5 @@ public class Main {
         System.out.println(important);
     }
 }
+## 🎬 Banner
+<img src="https://raw.githubusercontent.com/ikhsansetiaji/ikhsansetiaji/main/Coding%20The%20Matrix%20GIF.gif" width="100%" /> ```

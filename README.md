@@ -1,5 +1,5 @@
 <div align="center">
-# 👋 Hi there, I'm Ikhsan Setiaji!
+## 👋 Hi there, I'm Ikhsan Setiaji!
 
 ---
 
@@ -38,8 +38,9 @@
 ## 🏆 GitHub Trophies
 <img src="https://github-profile-trophy.vercel.app/?username=ikhsansetiaji&theme=dark&no-frame=false&no-bg=true&margin-w=4&column=7&row=1&margin-h=4" alt="GitHub Trophies" />
 
-### 🔝 Top Contributed Repos
-<img src="https://github-contributor-stats.vercel.app/api?username=ikhsansetiaji&limit=5&theme=onedark&combine_all_yearly_contributions=true&bg_color=0D1117&title_color=58D68D&text_color=FFFFFF" width="100%" />
+### 🔝 Top Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ikhsansetiaji&theme=onedark&layout=compact)
+
 
 ---
 

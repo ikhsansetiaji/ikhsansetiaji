@@ -58,5 +58,7 @@ public class Main {
         System.out.println(important);
     }
 }
+```
+---
 ## 🎬 Banner
-<img src="https://raw.githubusercontent.com/ikhsansetiaji/ikhsansetiaji/main/Coding%20The%20Matrix%20GIF.gif" width="100%" /> ```
+<img src="https://raw.githubusercontent.com/ikhsansetiaji/ikhsansetiaji/main/Coding%20The%20Matrix%20GIF.gif" width="100%" />

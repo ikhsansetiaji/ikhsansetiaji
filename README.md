@@ -5,7 +5,7 @@
 A passionate **Software Developer** from Indonesia 🚀  
 Exploring the world of code, one commit at a time. | He/Him | 📍 Daerah Istimewa Yogyakarta 
 
-![Banner GIF]([[https://github.com/ikhsansetiaji/ikhsansetiaji/blob/main/banner.gif?raw=true](https://tenor.com/id/view/hi-otag-cat-gif-496667468136015874)](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHN1azkxOHV5OTE5OGNwZTYwZ2s3bzhlaGhrZjNhZXdpMzI4eW5xbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wwg1suUiTbCY8H8vIA/giphy.gif))  
+![Banner GIF](https://media3.giphy.com/media/wwg1suUiTbCY8H8vIA/giphy.gif)  
 
 
 ---

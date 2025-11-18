@@ -2,8 +2,7 @@
 
 # 👋 Hi there, I'm Ikhsan Setiaji!
 
-A passionate **Software Developer** from Indonesia 🚀  
-Exploring the world of code, one commit at a time. | He/Him | 📍 Daerah Istimewa Yogyakarta 
+
 
 ![Banner GIF](https://raw.githubusercontent.com/ikhsansetiaji/ikhsansetiaji/main/Coding%20The%20Matrix%20GIF.gif)
 
@@ -60,10 +59,33 @@ Exploring the world of code, one commit at a time. | He/Him | 📍 Daerah Istime
 ## 💡 Fun Fact
 > "Code is like humor. When you have to explain it, it’s bad." – Cory House
 
+```java
 public class Main {
-    public static void main(String[] args) {
-        System.out.println("Hello, World! 🚀");
-        String important = "Keep coding, Ikhsan!";
-        System.out.println(important);
+    public static void main(String[] args) throws InterruptedException {
+        // ASCII Banner for Hello World (inspired by coding cats!)
+        String[] banner = {
+            "  ___  ____  ____   _  _    __    ___  ",
+            " / __)(  _ \\(  _ \\ ( \\/ )  /__\\  / __) ",
+            "( (_-. )   / )   /  \\  /  /(__\\( (__  ",
+            " \\___/(__\\_)(__\\_)(_/  \\)(__)(  \\___) ",
+            "               Hello, World! 🚀        "
+        };
+        
+        // Print banner with a "fade-in" effect (simple loop with delay)
+        for (String line : banner) {
+            System.out.println(line);
+            Thread.sleep(200);  // Tiny pause for animation (remove if no delay needed)
+        }
+        
+        // Fun message with your name
+        String important = "Keep coding, Ikhsan! 💻✨";
+        System.out.println("\n" + important);
+        
+        
+        // Bonus: Simple star pattern to end with flair
+        System.out.println("\n--- End of Snippet ---");
+        for (int i = 0; i < 3; i++) {
+            System.out.println("  *   *   *   ");
+        }
     }
 }

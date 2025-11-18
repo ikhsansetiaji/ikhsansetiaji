@@ -5,15 +5,15 @@
 A passionate **Software Developer** from Indonesia 🚀  
 Exploring the world of code, one commit at a time. | He/Him | 📍 Daerah Istimewa Yogyakarta 
 
-![Banner GIF]([https://github.com/ikhsansetiaji/ikhsansetiaji/blob/main/banner.gif?raw=true](https://tenor.com/id/view/hi-otag-cat-gif-496667468136015874))  
-*(Atau ganti dengan GIF custom-mu, misalnya dari Giphy)*
+![Banner GIF]([[https://github.com/ikhsansetiaji/ikhsansetiaji/blob/main/banner.gif?raw=true](https://tenor.com/id/view/hi-otag-cat-gif-496667468136015874)](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHN1azkxOHV5OTE5OGNwZTYwZ2s3bzhlaGhrZjNhZXdpMzI4eW5xbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wwg1suUiTbCY8H8vIA/giphy.gif))  
+
 
 ---
 
 ## 🌐 Connect with Me
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white&style=for-the-badge)](https://instagram.com/ikhsansetiajii)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge)](https://linkedin.com/in/ahmadikhsansetiaji)  
-[![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white&style=for-the-badge)](https://id.quora.com/profile/Ikhsan-Setiaji-2)  
+[![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=quora&logoColor=white&style=for-the-badge)](https://id.quora.com/profile/Ikhsan-Setiaji-2)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:ahmadikhsansetiaji@gmail.com)
 
 ---
@@ -31,7 +31,6 @@ Exploring the world of code, one commit at a time. | He/Him | 📍 Daerah Istime
 ### ☁️ Cloud & DevOps
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)  
 
-*(Tambah lebih banyak badge di shields.io kalau ada skill lain!)*
 
 ---
 
@@ -61,10 +60,10 @@ Exploring the world of code, one commit at a time. | He/Him | 📍 Daerah Istime
 ## 💡 Fun Fact
 > "Code is like humor. When you have to explain it, it’s bad." – Cory House
 
-```kotlin
-// Favorite snippet: A simple Kotlin hello world with flair
-fun main() {
-    println("Hello, World! 🚀")
-    val important = "Keep coding, Ikhsan!"
-    println(important)
+public class Main {
+    public static void main(String[] args) {
+        System.out.println("Hello, World! 🚀");
+        String important = "Keep coding, Ikhsan!";
+        System.out.println(important);
+    }
 }

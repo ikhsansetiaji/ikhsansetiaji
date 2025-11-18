@@ -3,9 +3,9 @@
 # 👋 Hi there, I'm Ikhsan Setiaji!
 
 A passionate **Software Developer** from Indonesia 🚀  
-Exploring the world of code, one commit at a time. | He/Him | 📍 Bandung, West Java  
+Exploring the world of code, one commit at a time. | He/Him | 📍 Daerah Istimewa Yogyakarta 
 
-![Banner GIF](https://github.com/ikhsansetiaji/ikhsansetiaji/blob/main/banner.gif?raw=true)  
+![Banner GIF]([https://github.com/ikhsansetiaji/ikhsansetiaji/blob/main/banner.gif?raw=true](https://tenor.com/id/view/hi-otag-cat-gif-496667468136015874))  
 *(Atau ganti dengan GIF custom-mu, misalnya dari Giphy)*
 
 ---

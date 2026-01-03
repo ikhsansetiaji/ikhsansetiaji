@@ -1,5 +1,12 @@
 
 ---
-<img src="https://raw.githubusercontent.com/ikhsansetiaji/ikhsansetiaji/main/Coding%20The%20Matrix%20GIF.gif" width="100%" />
+<p align="center">
+  <img 
+    src="https://raw.githubusercontent.com/ikhsansetiaji/ikhsansetiaji/main/B4dt6rXq6nABilHTYM.gif"
+    width="420"
+    alt="Coding Vibes"
+  />
+</p>
+
 
 ---
